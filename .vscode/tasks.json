@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\tript\\OneDrive\\Documents\\GitHub\\python-practice",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
